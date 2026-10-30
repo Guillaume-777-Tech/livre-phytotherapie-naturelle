@@ -16,8 +16,10 @@
 - Documentés (avec source entre parenthèses) :
 
 ### 3. Préparations
-- Infusion : proportion et durée
-- Décoction / teinture / huile / sirop si pertinent
+- Infusion : proportion et durée — **température de l'eau obligatoire** (ex. 80–90 °C pour fleurs/feuilles, jamais bouillante)
+- Décoction (parties dures) : proportion, durée, **frémissement doux ~95 °C, jamais à gros bouillons**
+- Teinture / huile / sirop si pertinent — température de préparation le cas échéant
+- **🌡️ Sensibilité à la chaleur** : quels principes actifs risquent d'être détruits ou volatilisés si la température est trop élevée ?
 - Erreurs courantes de préparation :
 
 ### 4. Posologie
@@ -46,7 +48,8 @@
 
 - **Identité** : fleurs séchées ; récolte été ; courante en Europe.
 - **Usages documentés** : digestion, sommeil léger (usage traditionnel très ancien ; EMA reconnaît l'usage traditionnel).
-- **Préparation** : infusion 1 c. à soupe de fleurs / 250 ml, couvert, 10 min.
+- **Préparation** : infusion 1 c. à soupe de fleurs / 250 ml — **eau frémissante 80–90 °C, jamais bouillante**, couvert (pour conserver les composés volatils), 10 min.
+- **🌡️ Sensibilité à la chaleur** : les composés aromatiques volatils se dégradent au-delà de 90–100 °C ; ne pas faire bouillir l'eau en contact avec les fleurs ; couvrir pendant l'infusion.
 - **Posologie** : 2–3 tasses/jour ; enfants : demi-dose après avis professionnel.
 - **Contre-indications** : allergie aux Astéracées.
 - **Interactions** : prudence avec les anticoagulants (données limitées).
