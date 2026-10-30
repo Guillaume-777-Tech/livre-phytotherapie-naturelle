@@ -170,6 +170,30 @@ Toute préparation reçoit immédiatement une étiquette avec **4 informations**
 
 > **Pourquoi c'est un point de sécurité et pas de qualité** : le mélivot mal séché illustre le cas d'école (fiche n° 50) — une plante conservée humide peut se dégrader en composés toxiques. Le séchage correct fait partie de la posologie.
 
+### Le déshydrateur alimentaire : oui, avec la règle des températures
+
+Le séchage au déshydrateur alimentaire est **parfaitement adapté** aux plantes médicinales — à condition d'appliquer la règle du chapitre 8, car le déshydrateur chauffe.
+
+| Type de plante | Température | Durée indicative | Remarque |
+|----------------|-------------|------------------|----------|
+| Fleurs et feuilles **aromatiques** (mélisse, menthe, verveine, lavande, thym) | **30–40 °C max** | 4–12 h | Les composés volatils s'évaporent dès 40 °C : plus chaud = tisane sans goût ni actifs |
+| Fleurs et fruits riches en **vitamine C** (églantier, cassis) | **< 40 °C** | 8–14 h | Vitamine C thermolabile, même à l'état sec |
+| **Mucilages** (guimauve, mauve, tilleul) | **30–35 °C** | 6–10 h | Actifs fragiles, comme en infusion |
+| **Parties dures** (racines, écorces, graines) | jusqu'à **50 °C** | 6–24 h | Destinées à la décoction : tolérance thermique plus large |
+
+**Les avantages du déshydrateur :**
+- Air brassé constant → séchage **plus rapide et plus homogène** qu'en claie, moins de risque de moisissure ;
+- Indépendant de la météo (indispensable en région humide) ;
+- Insectes et poussières écartés.
+
+**Les précautions :**
+1. **Une seule couche lâche** par plateau, fleurs et tiges non tassées (l'air doit circuler partout).
+2. **Vérifier le test de fin de séchage** à mi-course puis en fin : la feuille se **brise** net, la racine claque — jamais « souple ».
+3. **Ne pas monter la température « pour aller plus vite »** : c'est la même erreur que l'eau bouillante en tisane, appliquée au séchage.
+4. Après séchage : laisser **refroidir complètement** avant de mettre en bocal, puis vérifier à 48 h l'absence de condensation.
+
+> **La logique est la même du jardin à la tasse** : la plante aromatique qu'on sèche à 40 °C maximum est celle qu'on infusera à 80–90 °C couverte. La règle des températures couvre toute la vie de la plante, pas seulement la préparation.
+
 ---
 
 ## Récapitulatif des 4 chapitres (fin de partie)
