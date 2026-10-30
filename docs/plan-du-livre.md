@@ -26,7 +26,9 @@
 
 ### Partie III — Monographies : 50 plantes prioritaires
 Chaque plante suit la **fiche type** (`docs/fiche-type-plante.md`) :
-- identité, usages traditionnels et documentés, préparation (avec température), posologie, contre-indications, interactions, signaux d'alerte.
+- identité, usages traditionnels et documentés, préparation (avec température), posologie, contre-indications, interactions, signaux d'alerte, **origine France / pays source**.
+
+Liste de référence : `docs/liste-50-plantes.md` (v0.2, priorité France).
 
 Organisation en 7 familles d'usage :
 10. Digestion (ex. camomille, menthe poivrée, mélisse)
@@ -49,7 +51,7 @@ _*plantes à précautions renforcées : encadré rouge obligatoire sur la fiche.
 21. **Contre-indications par profil** : grossesse, allaitement, enfants, personnes âgées, maladies chroniques
 22. **Interactions avec les médicaments** : tableau de référence
 23. **Quand consulter un professionnel** : signaux d'alerte, drapeaux rouges
-24. **Ressources fiables et bibliographie**
+24. **Ressources fiables et bibliographie** — dont **où trouver ses plantes** : herboristeries sérieuses (physiques et en ligne) et sources institutionnelles → cf. `docs/sites-et-sources-fiables.md`
 
 ### Annexes
 - A. Index alphabétique des plantes
@@ -58,6 +60,7 @@ _*plantes à précautions renforcées : encadré rouge obligatoire sur la fiche.
 - D. **Tableau des températures par type de préparation et par plante**
 - E. Glossaire
 - F. Sources et références (norme : chaque monographie cite ses sources)
+- G. **Où acheter ses plantes : adresses et sites fiables** (`docs/sites-et-sources-fiables.md`)
 
 ## Jalons
 
@@ -65,7 +68,7 @@ _*plantes à précautions renforcées : encadré rouge obligatoire sur la fiche.
 |-------|----------|--------|
 | M1 | Plan validé (ce document) | #1 |
 | M2 | Fiche type validée | #2 |
-| M3 | Liste des 50 plantes validée | #3 |
+| M3 | Liste des 50 plantes validée | #3 (v0.2 en revue) |
 | M4 | Introduction + avertissement rédigés | #4 ✅ |
 | M5 | Brief illustrations | #5 |
 | M6 | Relecture scientifique et juridique | #6 |
@@ -77,3 +80,5 @@ _*plantes à précautions renforcées : encadré rouge obligatoire sur la fiche.
 - Toute fiche doit lister contre-indications et interactions, même si courtes.
 - Terminologie botanique exacte (nom latin systématique).
 - **🌡️ Règle « Températures » : toute préparation liquide chauffée indique OBLIGATOIREMENT la température cible et la sensibilité à la chaleur des principes actifs concernés** (une eau trop chaude détruit les bons éléments : vitamines, huiles essentielles volatiles, mucilages). Valeurs par défaut : infusion des parties fragiles (fleurs, feuilles) : eau frémissante 80–90 °C, jamais bouillante ; décoction des parties dures (racines, écorces) : frémissement doux ~95 °C ; miel et vitamine C : jamais au-delà de 40 °C.
+- **🌍 Règle « Origine » : priorité aux plantes de France** ; toute plante non française indique son/ses pays source(s) pour faciliter l'approvisionnement.
+- **🔗 Règle « Fournisseurs » : la liste d'herboristeries est factuelle, sans affiliation**, revérifiée avant publication ; présentée comme indicative.
