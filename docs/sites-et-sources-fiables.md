@@ -1,6 +1,17 @@
 # Sites et sources fiables — où trouver ses plantes (pages finales du livre)
 
-> Destiné aux dernières pages de l'ouvrage (chapitre 24 « Ressources fiables » + annexe). Un lecteur doit pouvoir repérer en 2 minutes un fournisseur sérieux.
+> Destiné aux dernières pages de l'ouvrage (chapitre 24 « Ressources fiables » + annexe G). Un lecteur doit pouvoir repérer en 2 minutes un fournisseur sérieux.
+
+## 📅 Dates de proposition et de vérification — À CONSERVER
+
+| Information | Date |
+|-------------|------|
+| **Date de proposition initiale de cette liste** | **30 octobre 2026** |
+| Date de dernière vérification des sites et adresses | 30 octobre 2026 |
+| Prochaine vérification obligatoire | avant impression (validation relecteur, ticket #6) |
+
+> **Note éditoriale** : ces dates doivent figurer dans le livre lui-même (mention légale de traçabilité), sous la forme :
+> *« Liste des adresses et sites vérifiés en octobre 2026. Les enseignes, adresses et sites évoluent : le lecteur est invité à vérifier leur actualité au moment de l'achat. »*
 
 ## 1. Grille de lecture : reconnaître une herboristerie sérieuse
 
@@ -15,11 +26,11 @@ Avant toute liste de noms, le lecteur apprend à vérifier lui-même :
 
 ## 2. Herboristeries réputées et sérieuses (France)
 
-Adresses de référence, historiques ou reconnues pour la qualité de leur sourcing et de leurs conseils :
+*Adresses proposées et vérifiées le 30 octobre 2026 (recherche documentaire en ligne ; à reconfirmer avant publication).*
 
 | Enseigne | Type | Remarque |
 |----------|------|----------|
-| Herboristerie du Palais-Royal (Paris) | Boutique historique | Institution parisienne (depuis 1815), plantes sélectionnées par des herboristes exigeants, plus de 900 références, conseils personnalisés |
+| Herboristerie du Palais-Royal (Paris) | Boutique historique | Institution parisienne, plantes sélectionnées par des herboristes exigeants, plus de 900 références, conseils personnalisés |
 | Grande Herboristerie de la Place Clichy (Paris) | Boutique historique | Grand catalogue de plantes en vrac, encadrement professionnel |
 | Herboristerie de Saint-Jean (Lyon) | Boutique historique | Référence lyonnaise, conseil en boutique |
 | Herboristerie Louis (Paris + en ligne) | Boutique + en ligne | Vrac, expertise conseil |
@@ -32,7 +43,7 @@ Adresses de référence, historiques ou reconnues pour la qualité de leur sourc
 
 ## 3. Sources institutionnelles d'information (à citer dans la bibliographie)
 
-À distinguer clairement des boutiques — ce sont les **sources d'information** de référence :
+*Proposées le 30 octobre 2026 ; liens institutionnels stables.*
 
 - **EMA (Agence européenne du médicament)** — monographies sur les usages traditionnels à base de plantes (herbal monographs) : la référence pour statuer « usage traditionnel reconnu »
 - **Pharmacopée française / européenne** — normes de qualité des plantes médicinales
@@ -49,6 +60,7 @@ Adresses de référence, historiques ou reconnues pour la qualité de leur sourc
 
 ## 5. Règles éditoriales pour la version finale
 
+- **La date de proposition/vérification de la liste apparaît en toutes lettres dans le livre** (traçabilité, en cas de demande).
 - Pas de lien d'affiliation ; pas de classement « meilleur site » marketing.
 - Présentation neutre et factuelle, revérifiée avant publication.
 - Mention obligatoire : « liste indicative, l'absence d'une enseigne ne préjuge pas de sa qualité ».
