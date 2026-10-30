@@ -1,4 +1,4 @@
-# Index des monographies
+# Index des monographies — 50 plantes
 
 | # | Plante | Fichier | Statut |
 |---|--------|---------|--------|
@@ -43,5 +43,24 @@
 | 34 | Hysope 🚩 | hysope.md | brouillon v0.1 |
 | 35 | Guimauve | guimauve.md | brouillon v0.1 |
 | 36 | Serpolet | serpolet.md | brouillon v0.1 |
+| **Famille 6 — Énergie et tonus** | | | |
+| 37 | Ginseng 🚩 | ginseng.md | brouillon v0.1 |
+| 38 | Ortie | ortie.md | brouillon v0.1 |
+| 39 | Romarin | romarin.md | brouillon v0.1 |
+| 40 | Éleuthérocoque 🚩 | eleutherocoque.md | brouillon v0.1 |
+| 41 | Pissenlit | pissenlit.md | brouillon v0.1 |
+| 42 | Verveine odorante | verveine.md | brouillon v0.1 |
+| 43 | Grande camomille 🚩 | grande-camomille.md | brouillon v0.1 |
+| **Famille 7 — Femmes / cycles** | | | |
+| 44 | Sauge officinale 🚩 | sauge.md | brouillon v0.1 |
+| 45 | Gattilier | gattilier.md | brouillon v0.1 |
+| 46 | Alchémille | alchemille.md | brouillon v0.1 |
+| 47 | Framboisier | framboisier.md | brouillon v0.1 |
+| 48 | Trèfle rouge 🚩 | trefle-rouge.md | brouillon v0.1 |
+| 49 | Angélique 🚩 | angelique.md | brouillon v0.1 |
+| 50 | Mélilot 🚩 | melilot.md | brouillon v0.1 |
+
+**50/50 monographies rédigées (brouillon v0.1)** — 13 plantes 🚩 à encadré rouge.
 
 Toutes les fiches suivent la fiche type : températures obligatoires, sensibilité à la chaleur, origine France/pays source, contre-indications, interactions, signaux d'alerte, sources.
+Statut suivant : relecture scientifique et juridique (ticket #6).
