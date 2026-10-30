@@ -27,5 +27,21 @@
 | 20 | Sarriette | sarriette.md | brouillon v0.1 |
 | 21 | Cyprès | cypres.md | brouillon v0.1 |
 | 22 | Églantier | eglantier.md | brouillon v0.1 |
+| **Famille 4 — Peau et petites blessures** | | | |
+| 23 | Calendula | calendula.md | brouillon v0.1 |
+| 24 | Plantain lancéolé | plantain.md | brouillon v0.1 |
+| 25 | Millepertuis 🚩 | millepertuis.md | brouillon v0.1 |
+| 26 | Hamamélis | hamamelis.md | brouillon v0.1 |
+| 27 | Mauve | mauve.md | brouillon v0.1 |
+| 28 | Consoude 🚩 | consoude.md | brouillon v0.1 |
+| 29 | Achillée millefeuille 🚩 | achillee.md | brouillon v0.1 |
+| **Famille 5 — Voies respiratoires** | | | |
+| 30 | Eucalyptus | eucalyptus.md | brouillon v0.1 |
+| 31 | Lierre grimpant 🚩 | lierre.md | brouillon v0.1 |
+| 32 | Pin sylvestre | pin.md | brouillon v0.1 |
+| 33 | Bouillon blanc | bouillon-blanc.md | brouillon v0.1 |
+| 34 | Hysope 🚩 | hysope.md | brouillon v0.1 |
+| 35 | Guimauve | guimauve.md | brouillon v0.1 |
+| 36 | Serpolet | serpolet.md | brouillon v0.1 |
 
 Toutes les fiches suivent la fiche type : températures obligatoires, sensibilité à la chaleur, origine France/pays source, contre-indications, interactions, signaux d'alerte, sources.
